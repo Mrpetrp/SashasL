@@ -1,0 +1,45 @@
+body,
+html{
+	 width: 100%;
+  height: 100%;
+	font-family: 'Bebas Neue', cursive;
+	background: black;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+	font-size: 3rem;
+	color: white;
+	font-family: 'Bebas Neue', cursive;
+ }
+
+ h2{
+ 	color: white;
+ 	text-align: left;
+ 	font-family: 'Noto Sans KR', sans-serif;
+ }
+
+
+
+.top-pic {
+	float: left;
+}
+
+.middle-pic {
+	float: right;
+}
+.middle {
+	float: center;
+}
+
+.b2{
+ 	float: right;
+ }
+
+iframe {
+ min-width: 100%;
+ min-height: 100%
+}
